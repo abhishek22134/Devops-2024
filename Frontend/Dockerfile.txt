@@ -1,0 +1,9 @@
+FROM nginx:latest
+
+
+# Copy frontend files into the container
+COPY index.html /usr/share/nginx/html/index.html
+# Expose port 80
+EXPOSE 80
+
+# Start Nginx
