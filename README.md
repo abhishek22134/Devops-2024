@@ -9,4 +9,5 @@ Backend:
 ![Screenshot 2024-08-03 223716](https://github.com/user-attachments/assets/3aabffa1-4764-4976-8c34-59032d4fce35)
 Frontend:
 
-![Screenshot 2024-08-03 223534](https://github.com/user-attachments/assets/7a8d9dbc-8cfc-4c88-8f2e-4aeb11f0d210)
+![Screenshot 2024-08-04 205756](https://github.com/user-attachments/assets/d40d0de9-291b-4754-9449-873caac10525)
+
